@@ -15,4 +15,4 @@ For policy people or others unfamiliar with amending written docs in GitHub, whi
 
 Follow One Team Government on [Twitter](https://twitter.com/OneTeamGov) or via the [website](http://oneteamgov.uk/)
 
-![summary](/short.png)
+*Summary version*![summary version of ](/short.png)
