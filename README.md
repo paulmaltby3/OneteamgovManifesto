@@ -1,5 +1,5 @@
 # Prototype One Team Government Manifesto
-[skip straight to an uncluttered version of the manifesto](https://paulmaltby3.github.io/OneteamgovManifesto/manifesto)
+[Skip straight to an uncluttered version of the manifesto](https://paulmaltby3.github.io/OneteamgovManifesto/manifesto)
 
 This document was designed as a prototype collaborative manifesto for what working seamlessly across digital and policy in government could look like. It is intended as a start of a conversation, and suggestions and updates are welcome. Obviously, it isn't any type of formal government document.
 
