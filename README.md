@@ -7,7 +7,7 @@ It is from the last in a series of blog posts I wrote in the run up to the [One 
 
 The final post was an attempt to suggest how these two government communities could come together:
 
-*If we were to offer a blueprint for what doing or being ‘digital policy’ in government is, aiming for a government of (and not just on) the internet, what might it look like? What would be its outlook, its practices and scope? This is a first attempt at a digital policy One Team Government manifesto, offered to help prompt a longer and more collaborative discussion. It is written from the perspective of what being a digital policy maker could look like rather than something that aims to accurately describe the full range of roles across both the digital and policy professions, or of a newly merged single role (though it may be that such a broad perspective is possible)*
+*"If we were to offer a blueprint for what doing or being ‘digital policy’ in government is, aiming for a government of (and not just on) the internet, what might it look like? What would be its outlook, its practices and scope? This is a first attempt at a digital policy One Team Government manifesto, offered to help prompt a longer and more collaborative discussion. It is written from the perspective of what being a digital policy maker could look like rather than something that aims to accurately describe the full range of roles across both the digital and policy professions, or of a newly merged single role (though it may be that such a broad perspective is possible)"*
 
 The summary version is shown below, but it makes more sense with the short descriptions in the full document.
 !(/short.png)
