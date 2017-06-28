@@ -1,5 +1,5 @@
 # Prototype One Team Government Manifesto
-[Skip straight to an uncluttered version of the manifesto](https://paulmaltby3.github.io/OneteamgovManifesto/manifesto)
+[(Skip straight to an uncluttered version of the manifesto)](https://paulmaltby3.github.io/OneteamgovManifesto/manifesto)
 
 This document was designed as a prototype collaborative manifesto for what working seamlessly across digital and policy in government could look like. It is intended as a start of a conversation, and suggestions and updates are welcome. Obviously, it isn't any type of formal government document.
 
@@ -9,7 +9,8 @@ The final post was an attempt to suggest how these two government communities co
 
 *If we were to offer a blueprint for what doing or being ‘digital policy’ in government is, aiming for a government of (and not just on) the internet, what might it look like? What would be its outlook, its practices and scope? This is a first attempt at a digital policy One Team Government manifesto, offered to help prompt a longer and more collaborative discussion. It is written from the perspective of what being a digital policy maker could look like rather than something that aims to accurately describe the full range of roles across both the digital and policy professions, or of a newly merged single role (though it may be that such a broad perspective is possible)*
 
-The summary version is shown below, but it makes more sense with the short descriptions in the full document.![summary of OneTeamGov Manifesto](/short.png)
+The summary version is shown below, but it makes more sense with the short descriptions in the full document.
+!(/short.png)
 
 Each statement tries to set out a position that is contrasted with an alternative and plausible way of behaving in government; I was trying to avoid bland generic statements that everyone could easily sign up to regardless of their views or practices. I always liked the 'this, not that' approach in the Agile Manifesto and their disclaimer ['That is, while there is value in the items on the right, we value the items on the left more'.](http://agilemanifesto.org/)
 
