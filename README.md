@@ -11,7 +11,7 @@ The [final post](https://medium.com/@maltbyps/prototyping-a-one-team-government-
 
 The summary version is shown below, but it makes more sense with the short descriptions in the full document. In the fuller version each statement tries to set out a position that is contrasted with an alternative and plausible way of behaving in government; I was trying to avoid bland generic statements that everyone could easily sign up to regardless of their views or practices. I always liked the 'this, not that' approach in the Agile Manifesto and their disclaimer ['That is, while there is value in the items on the right, we value the items on the left more'.](http://agilemanifesto.org/)
 
-For policy people or others unfamiliar with amending written docs in GitHub, which included me last week, the [basic intro pages](https://guides.github.com/activities/hello-world/) are pretty self-explainatory (it turns out...) - you have to create a new branch before making changes, and then make a pull request to get them merged back into the main document. 
+For policy people or others unfamiliar with amending written docs in GitHub, which included me last week, the [basic intro pages](https://guides.github.com/activities/hello-world/) are pretty self-explainatory (it turns out...). You have to create a new *branch* before making changes, and then make a *pull request* to get them merged back into the main document. 
 
 Follow One Team Government on [Twitter](https://twitter.com/OneTeamGov) or via the [website](http://oneteamgov.uk/).
 
