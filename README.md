@@ -13,6 +13,6 @@ The summary version is shown below, but it makes more sense with the short descr
 
 For policy people or others unfamiliar with amending written docs in GitHub, which included me last week, the [basic intro pages](https://guides.github.com/activities/hello-world/) are pretty self-explainatory (it turns out...) - you have to create a new branch before making changes, and then make a pull request to get them merged back into the main document. 
 
-Follow One Team Government on [Twitter](https://twitter.com/OneTeamGov) or via the [website](http://oneteamgov.uk/)
+Follow One Team Government on [Twitter](https://twitter.com/OneTeamGov) or via the [website](http://oneteamgov.uk/).
 
 *Summary version*![summary version of ](/short.png)
