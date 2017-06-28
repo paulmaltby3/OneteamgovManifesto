@@ -5,7 +5,7 @@ This document was designed as a prototype collaborative manifesto for what worki
 
 It is from the last in a series of blog posts I wrote in the run up to the [One Team Government](http://www.oneteamgov.uk/) unconference on 29 June 2017. They included a [crowdsourced reading list on digital for policy professionals](https://github.com/paulmaltby3/digitalpolicyreadinglist) interested in digging deeper on digital, a [short guide to policy for digital practitioners](https://medium.com/@maltbyps/one-team-government-a-short-guide-to-policy-for-government-digital-professionals-c3cc1e421406), and a reflection on [what the policy and digital communities could learn from each other](https://medium.com/@maltbyps/one-team-government-what-digital-and-policy-can-learn-from-each-other-c284b31b75ac).
 
-The final post was an attempt to suggest how these two government communities could come together:
+The [final post](https://medium.com/@maltbyps/prototyping-a-one-team-government-manifesto-1596d99d3f57) was an attempt to suggest how these two government communities could come together:
 
 *"If we were to offer a blueprint for what doing or being ‘digital policy’ in government is, aiming for a government of (and not just on) the internet, what might it look like? What would be its outlook, its practices and scope? This is a first attempt at a digital policy One Team Government manifesto, offered to help prompt a longer and more collaborative discussion. It is written from the perspective of what being a digital policy maker could look like rather than something that aims to accurately describe the full range of roles across both the digital and policy professions, or of a newly merged single role (though it may be that such a broad perspective is possible)".*
 
