@@ -19,7 +19,7 @@
 
 - **We look outwards.** We are unassuming about the role of civil servants in the policy development process and know there is no monopoly on wisdom. We are in touch with the best knowledge outside government.
 - **We are open.** Wherever appropriate we are engaged on social media and [following guidance](https://www.gov.uk/government/publications/social-media-guidance-for-civil-servants/social-media-guidance-for-civil-servants) we share our working, our challenges and our solutions. We know that [making things open can make things better](https://www.gov.uk/design-principles#tenth).
-- **We collaborate.** We draw together information and share experiences and communicate effectively within our teams and professional communities through digital tools and meetups. We use [pen policy making](https://openpolicy.blog.gov.uk/what-is-open-policy-making/) processes to engage the broadest input possible in the development of content.
+- **We collaborate.** We draw together information and share experiences and communicate effectively within our teams and professional communities through digital tools and meetups. We use [open policy making](https://openpolicy.blog.gov.uk/what-is-open-policy-making/) processes to engage the broadest input possible in the development of content.
 - **We borrow.** We build upon the successes of others and don&#39;t start from scratch unless there is no choice.
 
 **4. Embrace the tools and working practices of the internet era**
