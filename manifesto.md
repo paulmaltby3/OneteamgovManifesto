@@ -33,7 +33,7 @@
 
 - **We use data to drive both policy and services.** We appreciate that analytical insight is as valuable embedded within frontline digital services as it is used in its more familiar setting to inform policy choices.
 - **We are alert to new data techniques.** We look to [data science](https://data.blog.gov.uk/category/data-science/) to find new insights from data, and we consider the value from non-traditional sources of data. We appreciate but do not solely rely on the traditional analytical professions in government.
-- **We make our data available to others.** We know that data can soar in its potential when combined. We publish [pen data](https://theodi.org/guides/what-open-data) and other content in open formats wherever we can, and make use of authoritative [registers](http://www.openregister.org/) to underpin our work. Data security and privacy are critical and we use alternatives to bulk data sharing wherever possible.
+- **We make our data available to others.** We know that data can soar in its potential when combined. We publish [open data](https://theodi.org/guides/what-open-data) and other content in open formats wherever we can, and make use of authoritative [registers](http://www.openregister.org/) to underpin our work. Data security and privacy are critical and we use alternatives to bulk data sharing wherever possible.
 - **We draw on a wide range of analysis:** We underpin our work with a variety of analytical techniques, including [behavioural science](https://www.gov.uk/government/organisations/behavioural-insights-team), randomised controlled trials, and evidence from academia and the [what works centres](https://www.gov.uk/guidance/what-works-network) **.**
 
 **6. Pursue an iterative, agile approach to delivery**
